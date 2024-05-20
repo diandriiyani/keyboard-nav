@@ -1,6 +1,4 @@
-
-  
-  <script setup lang="ts">
+<script setup lang="ts">
   const items = ref([1, 2, 3, 4, 5, 6])
   const currentIndex = ref(0)
 
